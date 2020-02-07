@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="telas.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4968071"
+     inkscape:cx="-1693.2966"
+     inkscape:cy="-594.64197"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-414.24032,35.775302"
+       orientation="0,1"
+       id="guide1140"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-428.38358,-26.989457"
+       orientation="1,0"
+       id="guide1142"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-527.24185,-228.56811"
+       orientation="1,0"
+       id="guide1383"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-395.56453,-249.5079"
+       orientation="0,1"
+       id="guide1459"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-527.24184,293.44472"
+       orientation="1,0"
+       id="guide1597"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="back"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:1.79661691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect818"
+       width="269.13672"
+       height="190.82005"
+       x="-560.03223"
+       y="-16.651827"
+       ry="0.3095133"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       ry="0.3095133"
+       y="204.89627"
+       x="-558.9671"
+       height="190.82005"
+       width="269.13672"
+       id="rect937"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:1.79661691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:1.79661691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1003"
+       width="269.13672"
+       height="190.82005"
+       x="-566.99615"
+       y="446.36526"
+       ry="0.3095133"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       ry="0.3095133"
+       y="709.94244"
+       x="-574.72015"
+       height="190.82005"
+       width="269.13672"
+       id="rect1053"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#cccccc;stroke-width:1.79661691;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layout"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect841"
+       width="268.8504"
+       height="42.659801"
+       x="-560.03223"
+       y="-16.651827"
+       ry="0.30273888" />
+    <rect
+       ry="0.064406261"
+       y="165.6304"
+       x="-560.28375"
+       height="9.0756702"
+       width="269.92606"
+       id="rect846"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:#666666;stroke-width:0.92432994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <g
+       id="g857">
+      <rect
+         ry="0.29787213"
+         y="27.259293"
+         x="-547.84467"
+         height="137.3779"
+         width="245.29939"
+         id="rect848"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:1.8920784;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <text
+         id="text852"
+         y="98.352303"
+         x="-443.62875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332px"
+           y="98.352303"
+           x="-443.62875"
+           id="tspan850"
+           sodipodi:role="line">Body</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="view"
+     style="display:inline">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.0129323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect871"
+       width="245.29938"
+       height="139.16026"
+       x="-547.84467"
+       y="26.313253"
+       ry="0.30666667"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect873"
+       width="268.8504"
+       height="42.659801"
+       x="-560.03223"
+       y="-16.651827"
+       ry="0.30273888"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect875"
+       width="269.92606"
+       height="9.0756683"
+       x="-560.28375"
+       y="165.63039"
+       ry="0.30273888"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <g
+       style="display:inline"
+       id="g911"
+       transform="translate(-143.1012,-0.75316424)">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect907"
+         width="25.56324"
+         height="3.4616888"
+         x="-500.87976"
+         y="50.687515"
+         ry="0.30273888" />
+      <path
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -475.84569,50.687514 0.0699,-3.832185 6.40188,5.178004 -6.40188,5.931168 z"
+         id="path909"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g905"
+       transform="matrix(0.47370962,0.36963611,-0.36963611,0.47370962,-238.88395,209.46524)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <rect
+         ry="0.30273888"
+         y="50.687515"
+         x="-500.87976"
+         height="3.4616888"
+         width="25.56324"
+         id="rect899"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path901"
+         d="m -475.84569,50.687514 0.0699,-3.832185 6.40188,5.178004 -6.40188,5.931168 z"
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.47370962,0.36963611,-0.36963611,0.47370962,-190.95379,238.07654)"
+       id="g929"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect925"
+         width="25.56324"
+         height="3.4616888"
+         x="-500.87976"
+         y="50.687515"
+         ry="0.30273888" />
+      <path
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -475.84569,50.687514 0.0699,-3.832185 6.40188,5.178004 -6.40188,5.931168 z"
+         id="path927"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g935"
+       transform="matrix(0.47370962,0.36963611,-0.36963611,0.47370962,-125.61679,264.81387)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <rect
+         ry="0.30273888"
+         y="50.687515"
+         x="-500.87976"
+         height="3.4616888"
+         width="25.56324"
+         id="rect931"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path933"
+         d="m -475.84569,50.687514 0.0699,-3.832185 6.40188,5.178004 -6.40188,5.931168 z"
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       ry="0.20379245"
+       y="261.2247"
+       x="-485.53427"
+       height="92.477646"
+       width="114.30138"
+       id="rect939"
+       style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.12012744;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       ry="0.30273888"
+       y="204.89627"
+       x="-558.9671"
+       height="42.659801"
+       width="268.8504"
+       id="rect941"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       ry="0.30273888"
+       y="387.17847"
+       x="-559.21863"
+       height="9.0756683"
+       width="269.92606"
+       id="rect943"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;font-variant-east_asian:normal"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-464.39886"
+       y="-38.517544"
+       id="text989"><tspan
+         sodipodi:role="line"
+         id="tspan987"
+         x="-464.39886"
+         y="-38.517544"
+         style="stroke-width:0.26458332px">Inicial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-453.74753"
+       y="195.81218"
+       id="text993"><tspan
+         sodipodi:role="line"
+         id="tspan991"
+         x="-453.74753"
+         y="195.81218"
+         style="stroke-width:0.26458332px">Cadastro de discord</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-471.85486"
+       y="422.68594"
+       id="text997"><tspan
+         sodipodi:role="line"
+         id="tspan995"
+         x="-471.85486"
+         y="422.68594"
+         style="stroke-width:0.26458332px">Busca de integrante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-491.02725"
+       y="679.38348"
+       id="text1001"><tspan
+         sodipodi:role="line"
+         id="tspan999"
+         x="-491.02725"
+         y="679.38348"
+         style="stroke-width:0.26458332px">Conversar com integrante</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.0129323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1005"
+       width="245.29938"
+       height="139.16026"
+       x="-554.80859"
+       y="489.33032"
+       ry="0.30666667"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;font-variant-east_asian:normal"
+       id="rect1007"
+       width="268.8504"
+       height="42.659801"
+       x="-566.99615"
+       y="446.36526"
+       ry="0.30273888"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;font-variant-east_asian:normal"
+       id="rect1009"
+       width="269.92606"
+       height="9.0756683"
+       x="-567.24768"
+       y="628.64752"
+       ry="0.30273888"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       ry="0.30666667"
+       y="752.90747"
+       x="-562.53259"
+       height="139.16026"
+       width="245.29938"
+       id="rect1055"
+       style="opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.0129323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       ry="0.30273888"
+       y="709.94244"
+       x="-574.72015"
+       height="42.659801"
+       width="268.8504"
+       id="rect1057"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;font-variant-east_asian:normal" />
+    <rect
+       ry="0.30273888"
+       y="892.22467"
+       x="-574.97168"
+       height="9.0756683"
+       width="269.92606"
+       id="rect1059"
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <g
+       transform="matrix(0.47370962,0.36963611,-0.36963611,0.47370962,-253.5719,936.05927)"
+       id="g1065">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect1061"
+         width="25.56324"
+         height="3.4616888"
+         x="-500.87976"
+         y="50.687515"
+         ry="0.30273888" />
+      <path
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -475.84569,50.687514 0.0699,-3.832185 6.40188,5.178004 -6.40188,5.931168 z"
+         id="path1063"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1071"
+       transform="matrix(0.47370962,0.36963611,-0.36963611,0.47370962,-205.64174,964.67057)">
+      <rect
+         ry="0.30273888"
+         y="50.687515"
+         x="-500.87976"
+         height="3.4616888"
+         width="25.56324"
+         id="rect1067"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1069"
+         d="m -475.84569,50.687514 0.0699,-3.832185 6.40188,5.178004 -6.40188,5.931168 z"
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.47370962,0.36963611,-0.36963611,0.47370962,-140.30474,991.4079)"
+       id="g1077">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect1073"
+         width="25.56324"
+         height="3.4616888"
+         x="-500.87976"
+         y="50.687515"
+         ry="0.30273888" />
+      <path
+         style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -475.84569,50.687514 0.0699,-3.832185 6.40188,5.178004 -6.40188,5.931168 z"
+         id="path1075"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1216"
+       transform="translate(-79.373302,-13.556956)">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.4586111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="circle1212"
+         cx="-515.82336"
+         cy="533.21112"
+         r="2.4477837" />
+      <circle
+         r="1.4121829"
+         cy="533.21112"
+         cx="-515.82336"
+         id="path1210"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g1228">
+      <circle
+         r="2.4477837"
+         cy="528.50385"
+         cx="-595.94983"
+         id="circle1218"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.4586111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <circle
+         style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="circle1220"
+         cx="-595.94983"
+         cy="528.50385"
+         r="1.4121829" />
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1461"
+       width="121.95799"
+       height="88.406204"
+       x="-440.69965"
+       y="529.73199"
+       ry="0.30666795"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       ry="0.026787458"
+       y="529.73199"
+       x="-440.69965"
+       height="7.7222857"
+       width="121.95799"
+       id="rect1463"
+       style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.07819771px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <rect
+       ry="0.27988049"
+       y="537.45428"
+       x="-440.69965"
+       height="80.683922"
+       width="48.729958"
+       id="rect1465"
+       style="opacity:1;vector-effect:none;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.1597745px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+    <g
+       id="g1535"
+       transform="matrix(0.52777775,0,0,0.52777775,-249.88662,263.225)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <rect
+         ry="3.8841708"
+         y="560.60748"
+         x="-523.9881"
+         height="13.556955"
+         width="37.469917"
+         id="rect1527"
+         style="display:inline;opacity:1;vector-effect:none;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <text
+         id="text1525"
+         y="569.67456"
+         x="-518.18817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#666666;stroke-width:0.26458332px"
+           y="569.67456"
+           x="-518.18817"
+           id="tspan1523"
+           sodipodi:role="line">Buscar </tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-488.19803"
+       y="6.9916277"
+       id="text850"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan848"
+         x="-488.19803"
+         y="6.9916277"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:0.26458332px">ENCONTRE SEU GRUPO AQUI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-438.75555"
+       y="171.74641"
+       id="text879"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan877"
+         x="-438.75555"
+         y="171.74641"
+         style="fill:#ffffff;stroke:none;stroke-width:0.26458332px">Fetio com s2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-526.44299"
+       y="40.835014"
+       id="text885"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan883"
+         x="-526.44299"
+         y="40.835014"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px">Cadastre seu Discord</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-478.26453"
+       y="72.183022"
+       id="text889"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan887"
+         x="-478.26453"
+         y="72.183022"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px">Busque um integrante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-360.9985"
+       y="126.6698"
+       id="text893"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan891"
+         x="-360.9985"
+         y="126.6698"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px">Crie seu grupo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-425.43268"
+       y="99.109726"
+       id="text897"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/inicial.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="-425.43268"
+         y="99.109726"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px">Converse com um integrante</tspan></text>
+    <text
+       id="text965"
+       y="226.1881"
+       x="-490.97461"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="226.1881"
+         x="-490.97461"
+         id="tspan963"
+         sodipodi:role="line">ENCONTRE SEU GRUPO AQUI</tspan></text>
+    <text
+       id="text969"
+       y="393.29449"
+       x="-437.69043"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="393.29449"
+         x="-437.69043"
+         id="tspan967"
+         sodipodi:role="line">Fetio com s2</tspan></text>
+    <text
+       id="text973"
+       y="273.12753"
+       x="-462.12897"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px"
+         y="273.12753"
+         x="-462.12897"
+         id="tspan971"
+         sodipodi:role="line">Cadastre seu Discord</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-499.00369"
+       y="467.65707"
+       id="text1031"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1029"
+         x="-499.00369"
+         y="467.65707"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">ENCONTRE SEU GRUPO AQUI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-445.71951"
+       y="634.76355"
+       id="text1035"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1033"
+         x="-445.71951"
+         y="634.76355"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Fetio com s2</tspan></text>
+    <text
+       id="text1081"
+       y="731.23425"
+       x="-506.72769"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="731.23425"
+         x="-506.72769"
+         id="tspan1079"
+         sodipodi:role="line">ENCONTRE SEU GRUPO AQUI</tspan></text>
+    <text
+       id="text1085"
+       y="898.3407"
+       x="-453.44351"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="898.3407"
+         x="-453.44351"
+         id="tspan1083"
+         sodipodi:role="line">Fetio com s2</tspan></text>
+    <text
+       id="text1089"
+       y="767.42926"
+       x="-541.13092"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px"
+         y="767.42926"
+         x="-541.13092"
+         id="tspan1087"
+         sodipodi:role="line">Cadastre seu Discord</tspan></text>
+    <text
+       id="text1093"
+       y="798.77734"
+       x="-492.95245"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px"
+         y="798.77734"
+         x="-492.95245"
+         id="tspan1091"
+         sodipodi:role="line">Busque um integrante</tspan></text>
+    <text
+       id="text1097"
+       y="853.2641"
+       x="-375.68646"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px"
+         y="853.2641"
+         x="-375.68646"
+         id="tspan1095"
+         sodipodi:role="line">Crie seu grupo</tspan></text>
+    <text
+       id="text1101"
+       y="825.70404"
+       x="-440.12064"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;stroke-width:0.26458332px"
+         y="825.70404"
+         x="-440.12064"
+         id="tspan1099"
+         sodipodi:role="line">Converse com um integrante</tspan></text>
+    <g
+       id="g1130"
+       transform="translate(54.864188,32.554289)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <text
+         id="text1119"
+         y="281.40237"
+         x="-505.82974"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           y="281.40237"
+           x="-505.82974"
+           id="tspan1117"
+           sodipodi:role="line">digite seu id do discord...</tspan></text>
+      <rect
+         ry="0.085267745"
+         y="282.88037"
+         x="-515.29639"
+         height="0.30000001"
+         width="71.097771"
+         id="rect1121"
+         style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.06142259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+    <g
+       id="g1138"
+       transform="translate(-137.58336)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-514.9928"
+         y="281.02298"
+         id="text1134"><tspan
+           sodipodi:role="line"
+           id="tspan1132"
+           x="-514.9928"
+           y="281.02298"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">digite seu id do discord...</tspan></text>
+      <rect
+         style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.06142259;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect1136"
+         width="71.097771"
+         height="0.30000001"
+         x="-515.29639"
+         y="282.88037"
+         ry="0.085267745" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-545.41931"
+       y="506.27783"
+       id="text1146"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1144"
+         x="-545.41931"
+         y="506.27783"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Busque um integrante</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-530.49634"
+       y="525.49817"
+       id="text1150"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1148"
+         x="-530.49634"
+         y="525.49817"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Skill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-444.29871"
+       y="304.53424"
+       id="text1125"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/cadastro_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1123"
+         x="-444.29871"
+         y="304.53424"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#999999;stroke-width:0.26458332px">Id do discord</tspan></text>
+    <g
+       style="display:inline"
+       id="g1303"
+       transform="translate(-1.7396113,3.11183)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <g
+         transform="matrix(0.52406272,0,0,0.52406272,-211.37519,253.04787)"
+         id="g1234"
+         style="display:inline">
+        <circle
+           r="2.4477837"
+           cy="528.50385"
+           cx="-595.94983"
+           id="circle1230"
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.4586111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+        <circle
+           style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle1232"
+           cx="-595.94983"
+           cy="528.50385"
+           r="1.4121829" />
+      </g>
+      <text
+         id="text1154"
+         y="531.56342"
+         x="-521.32513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+           y="531.56342"
+           x="-521.32513"
+           id="tspan1152"
+           sodipodi:role="line">Dev</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1323"
+       transform="translate(-1.9092515,2.6458334)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <g
+         transform="matrix(0.52406288,0,0,0.52406288,-253.19676,261.95176)"
+         id="g1287"
+         style="display:inline">
+        <circle
+           r="2.4477837"
+           cy="533.21112"
+           cx="-515.82336"
+           id="circle1283"
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.4586111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+        <circle
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle1285"
+           cx="-515.82336"
+           cy="533.21112"
+           r="1.4121829" />
+      </g>
+      <text
+         id="text1158"
+         y="542.92755"
+         x="-521.47998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           y="542.92755"
+           x="-521.47998"
+           id="tspan1156"
+           sodipodi:role="line">UX</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1313"
+       transform="translate(-2.1089615,2.5126915)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <g
+         id="g1240"
+         transform="matrix(0.52406288,0,0,0.52406288,-252.99705,256.02695)"
+         style="display:inline">
+        <circle
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.4586111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle1236"
+           cx="-515.82336"
+           cy="533.21112"
+           r="2.4477837" />
+        <circle
+           r="1.4121829"
+           cy="533.21112"
+           cx="-515.82336"
+           id="circle1238"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      </g>
+      <text
+         id="text1162"
+         y="536.91406"
+         x="-521.03674"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           y="536.91406"
+           x="-521.03674"
+           id="tspan1160"
+           sodipodi:role="line">Marketing</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1333"
+       transform="translate(-1.9758215,2.9121172)"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144">
+      <g
+         id="g1293"
+         transform="matrix(0.52406288,0,0,0.52406288,-253.13019,267.04443)"
+         style="display:inline">
+        <circle
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.4586111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle1289"
+           cx="-515.82336"
+           cy="533.21112"
+           r="2.4477837" />
+        <circle
+           r="1.4121829"
+           cy="533.21112"
+           cx="-515.82336"
+           id="circle1291"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      </g>
+      <text
+         id="text1166"
+         y="548.25616"
+         x="-521.19812"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           y="548.25616"
+           x="-521.19812"
+           id="tspan1164"
+           sodipodi:role="line">Businness</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-435.64023"
+       y="524.9389"
+       id="text1387"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1385"
+         x="-435.64023"
+         y="524.9389"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Integrantes encontrados</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-429.05814"
+       y="536.1228"
+       id="text1407"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1405"
+         x="-429.05814"
+         y="536.1228"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">User discord</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-376.36197"
+       y="535.72479"
+       id="text1411"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1409"
+         x="-376.36197"
+         y="535.72479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Skill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-428.61612"
+       y="545.89465"
+       id="text1437"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1435"
+         x="-428.61612"
+         y="545.89465"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">@alexferreira</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-375.85953"
+       y="546.45795"
+       id="text1441"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1439"
+         x="-375.85953"
+         y="546.45795"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Dev</tspan></text>
+    <text
+       id="text1469"
+       y="551.18634"
+       x="-428.61612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="551.18634"
+         x="-428.61612"
+         id="tspan1467"
+         sodipodi:role="line">@alexferreira</tspan></text>
+    <text
+       id="text1473"
+       y="551.74963"
+       x="-375.85953"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="551.74963"
+         x="-375.85953"
+         id="tspan1471"
+         sodipodi:role="line">Dev</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-428.61612"
+       y="556.47803"
+       id="text1477"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1475"
+         x="-428.61612"
+         y="556.47803"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">@alexferreira</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-375.85953"
+       y="557.04132"
+       id="text1481"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1479"
+         x="-375.85953"
+         y="557.04132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Dev</tspan></text>
+    <text
+       id="text1485"
+       y="561.76971"
+       x="-428.61612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="561.76971"
+         x="-428.61612"
+         id="tspan1483"
+         sodipodi:role="line">@alexferreira</tspan></text>
+    <text
+       id="text1489"
+       y="562.33301"
+       x="-375.85953"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="562.33301"
+         x="-375.85953"
+         id="tspan1487"
+         sodipodi:role="line">Dev</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-428.61612"
+       y="567.0614"
+       id="text1493"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1491"
+         x="-428.61612"
+         y="567.0614"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">@alexferreira</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-375.85953"
+       y="567.62469"
+       id="text1497"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1495"
+         x="-375.85953"
+         y="567.62469"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Dev</tspan></text>
+    <text
+       id="text1501"
+       y="572.35309"
+       x="-428.61612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="572.35309"
+         x="-428.61612"
+         id="tspan1499"
+         sodipodi:role="line">@alexferreira</tspan></text>
+    <text
+       id="text1505"
+       y="572.91638"
+       x="-375.85953"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="572.91638"
+         x="-375.85953"
+         id="tspan1503"
+         sodipodi:role="line">Dev</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-428.61612"
+       y="577.64478"
+       id="text1509"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1507"
+         x="-428.61612"
+         y="577.64478"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">@alexferreira</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-375.85953"
+       y="578.20807"
+       id="text1513"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         sodipodi:role="line"
+         id="tspan1511"
+         x="-375.85953"
+         y="578.20807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">Dev</tspan></text>
+    <text
+       id="text1517"
+       y="582.93646"
+       x="-428.61612"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         y="582.93646"
+         x="-428.61612"
+         id="tspan1515"
+         sodipodi:role="line">@alexferreira</tspan></text>
+    <text
+       id="text1521"
+       y="583.49976"
+       x="-375.85953"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/media/alexferreira/SSD/Documentos/Repositorios_git/create_group2hackthon/design/telas/busque_discord.png"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:justify;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="583.49976"
+         x="-375.85953"
+         id="tspan1519"
+         sodipodi:role="line">Dev</tspan></text>
+  </g>
+</svg>
